@@ -1,7 +1,7 @@
 const axios = require("axios");
 const baseApiUrl = async () => {
   const base = await axios.get(
-`https://raw.githubusercontent.com/Blankid018/D1PT0/main/baseApiUrl.json`,
+`https://noobs-api-team-url.vercel.app/N1SA9/baseApiUrl.json`,
   );
   return base.data.api;
 };
@@ -9,7 +9,7 @@ const baseApiUrl = async () => {
 module.exports = {
   config: {
     name: "baby",
-    aliases: ["baby", "bbe", "babe","bby"],
+    aliases: ["baby", "kurumi", "babe","bby"],
     version: "6.9.0",
     author: "dipto",
     countDown: 0,
