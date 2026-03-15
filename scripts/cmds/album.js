@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 const baseApiUrl = async () => {
   const base = await axios.get(
-    `https://raw.githubusercontent.com/Blankid018/D1PT0/main/baseApiUrl.json`,
+    `https://noobs-api-team-url.vercel.app/N1SA9/baseApiUrl.json`,
   );
   return base.data.api;
 };
@@ -133,7 +133,7 @@ module.exports = {
     const d1 = args[1] ? args[1].toLowerCase() : "";
     if (!d1 || !validCommands.includes(d1)) return;
     if (!event.reply_to_message) return;
-const botToken = "7533328541:AAHXn1DRTcV6nYFtkz0Lr0NvLpbTFiSWqcM"; 
+const botToken = "8251518694:AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI"; 
 const fileId = event.reply_to_message.video.file_id;
 
 const response = await axios.get(`https://api.telegram.org/bot${botToken}/getFile?file_id=${fileId}`);
@@ -243,7 +243,7 @@ const URL = `https://api.telegram.org/file/bot${botToken}/${filePath}`;
     }
   },
   onReply: async function ({ api, event, Reply, message }) {
-    const admin = "100044327656712";
+    const admin = "61588257969717";
     api.unsendMessage(Reply.messageID);
     if (event.type == "message_reply") {
       const reply = parseInt(event.body);
