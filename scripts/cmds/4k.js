@@ -2,7 +2,7 @@ const a = require('axios');
 const tinyurl = require('tinyurl');
 const baseApiUrl = async () => {
   const base = await a.get(
-    `https://raw.githubusercontent.com/Blankid018/D1PT0/main/baseApiUrl.json`,
+    `https://noobs-api-team-url.vercel.app/N1SA9/baseApiUrl.json`,
   );
   return base.data.api;
 };
