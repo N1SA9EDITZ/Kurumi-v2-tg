@@ -1,13 +1,13 @@
 ---
 <div align="center">
-  <img src="https://i.ibb.co/G5r6p5r/image.png" width="60"/>
-   <h1>Bot'Bee<sub><sub>v1.0.0🚀</sub><sub><sub><h6>- Made By Dipto</h6></sub></sub></sub>
+  <img src="https://files.catbox.moe/4odpv8.jpg" width="90"/>
+   <h1>KuRuMi Bot V2<sub><sub>v1.0.0🚀</sub><sub><sub><h6>- Made By N1SA9</h6></sub></sub></sub>
   </h1>
-  <p><em>A Powerful Telegram bot built by Dipto for various automated tasks.</em></p>
+  <p><em>A Powerful Telegram bot built by N1SAN9 for various automated tasks.</em></p>
   <p><small>Version 1.0.0</small></p>
 </div>
 
-<img align="center" src="https://i.ibb.co/GFGBBpY/image.jpg"></a>
+<img align="center" src="https://files.catbox.moe/7pl10a.jpg"></a>
 
 ---
 
@@ -644,23 +644,23 @@ If you encounter any issues, please report them at [Issues](https://github.com/D
 
 ## ✍️ Author
 
-- **Dipto**
+- **N1SA9**
 
-![Dipto's Profile](https://telegra.ph/file/4b46589e723817e575717.jpg)
-[Facebook ID](https://www.facebook.com/dipto008)
+![N1SA9'S Profile](https://files.catbox.moe/4odpv8.jpg)
+[Facebook ID](https://www.facebook.com/next4x.5g)
 
 ---
 ## 🌐 Support Group
 
-[Your Baby Group(Telegram)](https://t.me/your_baby_group)
+[KuRuMi World Group(Telegram)](https://t.me/KuRuMi_World)
 
-[Your Baby Group(Messager)](https://m.me/j/Abbzx_R02jroVmUv/)
+[KuRuMi World Group(Messager)](https://m.me/j/Abb9VB-S1hVTLYIr/)
 
 ---
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Diptogittt/telegram-bot)
+- [GitHub Repository](https://github.com/Diptogitttu/telegram-bot)
 - [License](./LICENSE)
 
 ---
