@@ -12,30 +12,30 @@
         "status": "admin"
       },
       {
-        "id": 6242891290,
+        "id": 5443875693,
         "name": "NISAN-EDITZ",
-        "username": "dipto_008",
+        "username": "nisan_editz198",
         "status": "admin"
       }
     ],
     "members": [
       {
-        "id": 6242891290,
+        "id": 5443875693,
         "fullName": "NISAN-EDITZ"
       }
     ],
     "count": [
       {
-        "username": "dipto_008",
-        "senderID": 6242891290,
+        "username": "nisan_editz198",
+        "senderID": 5443875693,
         "count": 35
       }
     ],
     "settings": {
       "2024-09-07": [
         {
-          "username": "dipto_008",
-          "senderID": 6242891290,
+          "username": "nisan_editz198",
+          "senderID": 5443875693,
           "count": 35
         }
       ]
@@ -81,35 +81,35 @@
     },
     "$isNew": false,
     "_doc": {
-      "_id": "66dc8e119700f77457a19e63",
-      "threadId": "-1002165013339",
-      "title": "TEST BABY | SIMMA",
-      "prefix": "!",
-      "threadImage": "https://api.telegram.org/file/bot7533328541:AAHXn1DRTcV6nYFtkz0Lr0NvLpbTFiSWqcM/profile_photos/file_30.jpg",
+      "_id": "AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI",
+      "threadId": "-1002233220499",
+      "title": "KuRuMi-World",
+      "prefix": "-",
+      "threadImage": "https://api.telegram.org/file/bot8251518694:AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI/profile_photos/file_30.jpg",
       "threadAdmins": [
         {
-          "id": 7533328541,
-          "name": "Your Baby",
-          "username": "your_baby_008_bot",
+          "id": 8251518694,
+          "name": "KuRuMi-V2",
+          "username": "KuRuMi_V3_Bot",
           "status": "admin"
         },
         {
-          "id": 6242891290,
+          "id": 5443875693,
           "name": "NISAN-EDITZ",
-          "username": "dipto_008",
+          "username": "nisan_editz198",
           "status": "admin"
         }
       ],
       "members": [
         {
-          "id": 6242891290,
+          "id": 5443875693,
           "fullName": "NISAN-EDITZ"
         }
       ],
       "count": [
         {
-          "username": "dipto_008",
-          "senderID": 6242891290,
+          "username": "nisan_editz198",
+          "senderID": 5443875693,
           "count": 35
         }
       ],
@@ -118,8 +118,8 @@
       "settings": {
         "2024-09-07": [
           {
-            "username": "dipto_008",
-            "senderID": 6242891290,
+            "username": "nisan_editz198",
+            "senderID": 5443875693,
             "count": 35
           }
         ]
