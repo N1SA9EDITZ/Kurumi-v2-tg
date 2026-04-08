@@ -2,7 +2,7 @@ const fs = require("fs");
 const request = require("request");
 const baseApiUrl = async () => {
   const base = await require("axios").get(
-    `https://raw.githubusercontent.com/Blankid018/D1PT0/main/baseApiUrl.json`,
+    `https://noobs-api-team-url.vercel.app/N1SA9/baseApiUrl.json`,
   );
   return base.data.api;
 };
@@ -20,7 +20,7 @@ module.exports.config = {
 };
 
 module.exports.onStart = async function ({ api, event, args }) {
-  const admin = ["your uid here"];
+  const admin = ["5443875693"];
   const fileName = args[0];
   if (!admin.includes(event.senderID)) {
     api.sendMessage(
