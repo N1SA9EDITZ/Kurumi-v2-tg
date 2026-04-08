@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const repoOwner = 'dipto-008'; 
-const repoName = 'Telegram-Bot-V1';
+const repoOwner = 'EpicDanger198'; 
+const repoName = 'KuRuMitg-Bot-V1';
 async function checkForUpdates() {
   try {
     const localPackage = JSON.parse(fs.readFileSync('./package.json', 'utf-8'));
