@@ -1,7 +1,8 @@
 const axios = require('axios');
 
 module.exports.config = {
-    name: "babe",
+    name: "hi",
+    aliases:["bby", "baby", "kurumi", "bot", "jan", "janu", "বট", "জান", "জানু"],
     version: "1.0",
     credits: "Dipto",
     role: 0,
@@ -18,7 +19,7 @@ module.exports.run = async ({ event, message, args }) =>{
     const userMessage = args.join(' ');
     if(!userMessage) return message.reply('Please provide a message')
     try {
-        const apiUrl = `https://www.noobs-api.000.pe/dipto/baby?text=${encodeURIComponent(userMessage)}`;
+        const apiUrl = `http://api.noobs-api.rf.gd/dipto/baby?text=${encodeURIComponent(userMessage)}`;
         const response = await axios.get(apiUrl);
         const data = response.data.reply;
 
@@ -44,7 +45,7 @@ module.exports.run = async ({ event, message, args }) =>{
 module.exports.reply = async function ({ event, message ,args, Reply }) {
      const { data } = Reply;
     try {
-        const apiUrl = `https://www.noobs-api.000.pe/dipto/baby?text=${encodeURIComponent(args.join(' '))}`;
+        const apiUrl = `http://api.noobs-api.rf.gd/dipto/baby?text=${encodeURIComponent(args.join(' '))}`;
         const response = await axios.get(apiUrl);
         const reply = response.data.reply;
      const info = await message.reply(reply);
