@@ -1,5 +1,5 @@
 {
-  "name": "Bot'Bee",
+  "name": "KuRuMitg-Bot-V1",
   "version": "1.0.0",
   "description": "A custom Telegram bot built by Dipto for various automated tasks.",
   "main": "index.js",
@@ -14,20 +14,23 @@
     "automation",
     "nodejs",
     "Dipto",
+    "N1SA9",
     "Bot Bee",
     "Bot'Bee",
     "Bee",
+    "KuRuMi",
+    "Bot-V1",
     "bot'bee"
   ],
   "author": "Dipto",
   "license": "Open License - Non-Commercial",
-  "homepage": "https://github.com/dipto-008/BotBee#readme",
+  "homepage": "https://github.com/EpicDanger198/KuRuMitg-Bot-V1#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dipto-008/BotBee.git"
+    "url": "https://github.com/EpicDanger198/KuRuMitg-Bot-V1.git"
   },
   "bugs": {
-    "url": "https://github.com/dipto-008/BotBee/issues"
+    "url": "https://github.com/EpicDanger198/KuRuMitg-Bot-V1/issues"
   },
   "dependencies": {
     "@types/node": "^18.0.6",
