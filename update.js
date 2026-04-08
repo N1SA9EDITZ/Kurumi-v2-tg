@@ -33,7 +33,7 @@ async function updateFiles() {
       if (fs.existsSync(localPath)) {
         backupFile(localPath);
       }
-      const rawUrl = `https://raw.githubusercontent.com/dipto-008/Telegram-Bot-V1/main/${file}`;
+      const rawUrl = `https://raw.githubusercontent.com/EpicDanger198/KuRuMitg-Bot-V1/main/${file}`;
       const response = await axios.get(rawUrl, { responseType: 'arraybuffer' });
 
       const dataToWrite = Buffer.isBuffer(response.data)
