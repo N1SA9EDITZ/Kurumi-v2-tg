@@ -1,43 +1,27 @@
 [
   {
-    "threadId": -1002165013339,
-    "title": "TEST BABY | SIMMA",
-    "prefix": "!",
-    "threadImage": "https://api.telegram.org/file/bot7498218015:AAFXtK2tVQcmXvqA73DyBZg9yeVDrwfyjxA/profile_photos/file_5.jpg",
+    "threadId": -1002233220499,
+    "title": "KuRuMi-Bot-V1",
+    "prefix": "-",
+    "threadImage": "https://api.telegram.org/file/bot8251518694:AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI/profile_photos/file_5.jpg",
     "threadAdmins": [
       {
-        "id": 7498218015,
-        "name": "your baby test",
-        "username": "baby_test_bot",
-        "status": "admin"
-      },
-      {
-        "id": 7451534228,
-        "name": "RUBISH",
-        "username": "RUBISH00",
+        "id": 8251518694,
+        "name": "KuRuMi-V2",
+        "username": "KuRuMi_V3_Bot",
         "status": "admin"
       },
       {
         "id": 6242891290,
-        "name": "Dip To",
+        "name": "NISAN-EDITZ",
         "username": "dipto_008",
-        "status": "admin"
-      },
-      {
-        "id": 5193938086,
-        "name": "~ANTHONY~",
-        "username": "ANTHONY_4_0_4",
         "status": "admin"
       }
     ],
     "members": [
       {
         "id": 6242891290,
-        "fullName": "Dip To"
-      },
-      {
-        "id": 6856210809,
-        "fullName": "Tanha Chowdhury"
+        "fullName": "NISAN-EDITZ"
       }
     ],
     "count": [
@@ -45,11 +29,6 @@
         "username": "dipto_008",
         "senderID": 6242891290,
         "count": 35
-      },
-      {
-        "username": "Tanhamew",
-        "senderID": 6856210809,
-        "count": 10
       }
     ],
     "settings": {
@@ -58,11 +37,6 @@
           "username": "dipto_008",
           "senderID": 6242891290,
           "count": 35
-        },
-        {
-          "username": "Tanhamew",
-          "senderID": 6856210809,
-          "count": 9
         }
       ]
     },
@@ -120,32 +94,16 @@
           "status": "admin"
         },
         {
-          "id": 7451534228,
-          "name": "RUBISH",
-          "username": "RUBISH00",
-          "status": "admin"
-        },
-        {
           "id": 6242891290,
-          "name": "Dip To",
+          "name": "NISAN-EDITZ",
           "username": "dipto_008",
-          "status": "admin"
-        },
-        {
-          "id": 5193938086,
-          "name": "~ANTHONY~",
-          "username": "ANTHONY_4_0_4",
           "status": "admin"
         }
       ],
       "members": [
         {
           "id": 6242891290,
-          "fullName": "Dip To"
-        },
-        {
-          "id": 6856210809,
-          "fullName": "Tanha Chowdhury"
+          "fullName": "NISAN-EDITZ"
         }
       ],
       "count": [
@@ -153,11 +111,6 @@
           "username": "dipto_008",
           "senderID": 6242891290,
           "count": 35
-        },
-        {
-          "username": "Tanhamew",
-          "senderID": 6856210809,
-          "count": 10
         }
       ],
       "createdAt": "2024-09-07T17:32:01.810Z",
@@ -168,11 +121,6 @@
             "username": "dipto_008",
             "senderID": 6242891290,
             "count": 35
-          },
-          {
-            "username": "Tanhamew",
-            "senderID": 6856210809,
-            "count": 9
           }
         ]
       },
