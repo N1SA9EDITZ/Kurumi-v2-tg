@@ -35,7 +35,7 @@ async function onBot() {
 
     botProcess.on('close', (code) => {
         if (code === 2) {
-            console.log('Restarting BotBee...'.red);
+            console.log('Restarting KuRuMitg-Bot-V1...'.red);
             onBot();
         } else if (code !== 0) {
             console.error(`Bot process exited with code ${code}`);
