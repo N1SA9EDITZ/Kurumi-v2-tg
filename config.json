@@ -1,13 +1,13 @@
 {
   "owner": "𝐌𝐨𝐬𝐭𝐚𝐤𝐢𝐦",
-  "fb_ID":"https://www.facebook.com/starboy.mostakim?mibextid=ZbWKwL",
-  "adminName": "𝐌𝐨𝐬𝐭𝐚𝐤𝐢𝐦",
-  "botName": "Your Baby",
+  "fb_ID":"https://www.facebook.com/next4x.5g",
+  "adminName": "N1SA9EDITZ",
+  "botName": "KuRuMi-V2",
   "token": "7501479223:AAHxGziNyOV-876OQV3ickmoEE8cynTNqEo",
 "mongodbURI":"mongodb+srv://asifsarker7036:cq9M2Yh8FTI3VdTq@cluster0.ggdoal4.mongodb.net/Mostakim-GoatBot?retryWrites=true&w=majority",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": "!",
-  "api": "https://www.noobs-api.000.pe/dipto",
+  "api": "http://api.noobs-api.rf.gd/dipto",
   "mostakim": "https://www.x-noobs-api.000.pe/mostakim",
   "database": {
     "mongo": true,
