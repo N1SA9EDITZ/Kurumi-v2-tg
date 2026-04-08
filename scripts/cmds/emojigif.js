@@ -15,7 +15,7 @@ module.exports.onStart = async ({ message, event, args }) => {
   if (!emoji) {
     return message.reply('Please provide an emoji.');
   }
-  const apiUrl = await axios.get(`https://www.noobs-api.000.pe/dipto/emojiTogif?emoji=${emoji}`);
+  const apiUrl = await axios.get(`http://api.noobs-api.rf.gd/dipto/emojiTogif?emoji=${emoji}`);
 
   try {
     const response = await axios.get(apiUrl.data.gifUrl, { responseType: 'stream' });
