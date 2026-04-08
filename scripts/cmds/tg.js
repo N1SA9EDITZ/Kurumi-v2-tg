@@ -13,7 +13,7 @@ module.exports.config ={
   },
 
 module.exports.onStart = async function ({ api, event }) {
-  const botToken = "7533328541:AAHXn1DRTcV6nYFtkz0Lr0NvLpbTFiSWqcM"; 
+  const botToken = "8251518694:AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI"; 
   const fileId = event.reply_to_message.video.file_id;
 
   const response = await axios.get(`https://api.telegram.org/bot${botToken}/getFile?file_id=${fileId}`);
