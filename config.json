@@ -3,10 +3,10 @@
   "fb_ID":"https://www.facebook.com/next4x.5g",
   "adminName": "𝐍𝟏𝐒𝐀𝟗𝐄𝐃𝐈𝐓𝐙",
   "botName": "KuRuMi-V2",
-  "token": "SET_YOUR_BOT_TOKEN",
-"mongodbURI":"SET_YOUR_MONGODB",
+  "token": "8251518694:AAFKRUFiPLIZGnEFpX-aKfPJ_x8vyMhNLHI",
+"mongodbURI":"mongodb+srv://kurumibbz_db_user:CsNisan198@kurumi.w22zff2.mongodb.net/?appName=Kurumi",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
-  "prefix": "/",
+  "prefix": "-",
   "api": "http://api.noobs-api.rf.gd/dipto",
   "mostakim": "https://www.x-noobs-api.000.pe/mostakim",
   "database": {
